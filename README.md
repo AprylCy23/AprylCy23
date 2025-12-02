@@ -6,7 +6,6 @@
 Results-driven Certified Cybersecurity and Information Technology Professional  with over nine years of experience combining System Administration and security expertise across multiple  platforms.
 
 ## Objective
-
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 
