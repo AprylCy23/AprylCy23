@@ -1,5 +1,9 @@
 <h1>Hi, I'm Apryl! Aspiring Cybersecurity Professional </a><//></a>
+  
+<a href="https://www.linkedin.com/in/aprylhunter/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+## Introduction
+Results-driven Certified Cybersecurity and Information Technology Professional  with over nine years of experience combining System Administration and security expertise across multiple  platforms.
 
 ## Objective
 
@@ -44,25 +48,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-
-
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="apryl-hunter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/aprylhunter/
-<!--
-**aprylhunter/aprylhunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-SecurityX-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-EC--Council:%20Certified%20Ethical%20Hacker-E2231A?&style=for-the-badge&logo=eccouncil&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-00A86B?&style=for-the-badge&logo=isc2&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20User-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20MCP-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Scrum%20Fundamentals-009FDA?&style=for-the-badge&logo=scrumalliance&logoColor=white" />
+<img src="https://img.shields.io/badge/-ITIL%20v3-6A1B9A?&style=for-the-badge&logo=itil&logoColor=white" />
+</div>
