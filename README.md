@@ -39,6 +39,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Offensive
 <div>
     <img src="https://img.shields.io/badge/-Atomic_Red_Team-D62728?&style=for-the-badge&logo=Atom&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Crowbar-FF0000?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hydra-00A4EF?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+</div>
 
 ### Endpoint
 <div>
