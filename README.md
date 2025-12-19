@@ -28,7 +28,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <b>Active Directory with Splunk SIEM and attack simulation project</b>
   - [Created Active Directory/attack logs in SPLUNK](https://github.com/AprylCy23/Active-Directory)
 - <b>SPLUNK-101-Capstone</b>
-  - [Splunk Investigation](https://github.com/AprylCy23/SPLUNK-101-Capstone-Project)
+  - [Suspicious Mouse Movement Investigation](https://github.com/AprylCy23/SPLUNK-101-Capstone-Project)
     
 ## Tools
 
