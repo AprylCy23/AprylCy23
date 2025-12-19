@@ -27,6 +27,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
   - [Creating a live SOC/Honeynet in Azure](https://github.com/AprylCy23/Azure-SOC/blob/main/README.md)
 - <b>Active Directory with Splunk SIEM and attack simulation project</b>
   - [Created Active Directory/attack logs in SPLUNK](https://github.com/AprylCy23/Active-Directory/blob/main/README.md)
+- <b>SPLUNK-101-Capstone-Project</b>
 
 ## Tools
 
